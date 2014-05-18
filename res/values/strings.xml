@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sh</string>
+    <string name="btn_hush">Camera shuts up</string>
+    <string name="txt_root_pos">Your device is rooted.</string>
+    <string name="txt_root_neg">Your device is not rooted, please root first.</string>
+
+</resources>
